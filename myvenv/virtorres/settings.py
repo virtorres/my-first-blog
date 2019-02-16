@@ -25,7 +25,7 @@ SECRET_KEY = '^c02h_w_9tgu%dyw-1^az8orvwt96#8#np_tc3bvmntj6(wgbj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'virtorres.pythonanywhere.com']
 
 
 # Application definition
